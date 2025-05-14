@@ -16,12 +16,12 @@ function Home() {
           Plan, book, and experience unforgettable adventures with our
           all-in-one travel app.
         </p>
-        <a
+        {/* <a
           href="#download"
           className="bg-blue-600 text-white px-6 py-3 rounded-md text-lg hover:bg-blue-700"
         >
           Get Started
-        </a>
+        </a> */}
       </div>
     </section>
   );
