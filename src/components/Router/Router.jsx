@@ -1,10 +1,10 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from '../Home'
 import About from '../page/About'
 import AddVehicle from '../page/AddVehicle'
 import Testimonila from '../page/Testimonial'
 import Contact from '../page/Contact'
+import Home from '../Home'
 
 
 function Router() {
