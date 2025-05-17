@@ -8,7 +8,7 @@ function Footer() {
           {/* Company Info */}
           <div className="space-y-4 animate-slide-in">
             <h3 className="text-2xl font-bold tracking-tight">
-              <span className="text-blue-400">Your</span>Company
+              <span className="text-blue-400">Kashi Tour</span> & Trevels
             </h3>
             <p className="text-gray-300 text-sm leading-relaxed">
               Empowering the future with innovative solutions. Join us on our journey to make a difference.
