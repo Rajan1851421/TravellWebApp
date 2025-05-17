@@ -6,6 +6,7 @@ import Testimonila from '../page/Testimonial'
 import Contact from '../page/Contact'
 import Home from '../Home'
 import ExploreVehicle from '../page/ExploreVehicle'
+import Gallery from '../page/Gallery'
 
 
 function Router() {
@@ -18,6 +19,7 @@ function Router() {
             <Route path='/testimonial' element={<Testimonila/>}/>
             <Route path='/contact' element={<Contact/>}/>
             <Route path='/explore-Vehicle' element={<ExploreVehicle/>}/>
+            <Route path='/gallery' element={<Gallery/>}/>
 
         </Routes>
     </div>

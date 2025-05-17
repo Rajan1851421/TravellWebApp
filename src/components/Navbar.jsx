@@ -39,23 +39,23 @@ function Navbar() {
               <FiMapPin className="mr-1" /> Home
             </Link>
             <Link
-              to="/destinations"
+              to="/explore-Vehicle"
               className="text-gray-700 hover:bg-blue-100 hover:text-blue-600 rounded-md px-3 py-2 text-sm font-medium transition-all duration-200"
             >
-              Destinations
+              Explore Vehicle
             </Link>
             <Link
-              to="/tours"
+              to="/gallery"
               className="text-gray-700 hover:bg-blue-100 hover:text-blue-600 rounded-md px-3 py-2 text-sm font-medium transition-all duration-200"
             >
-              Tours
+              Gallery
             </Link>
-            <Link
+            {/* <Link
               to="/deals"
               className="text-gray-700 hover:bg-blue-100 hover:text-blue-600 rounded-md px-3 py-2 text-sm font-medium transition-all duration-200 whitespace-nowrap"
             >
               Special Deals
-            </Link>
+            </Link> */}
             <Link
               to="/about"
               className="text-gray-700 hover:bg-blue-100 hover:text-blue-600 rounded-md px-3 py-2 text-sm font-medium transition-all duration-200 whitespace-nowrap"
